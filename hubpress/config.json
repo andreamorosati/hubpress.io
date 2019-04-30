@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://andreamorosati.github.io/hubpress.io",
+    "hubpress": "https://andreamorosati.github.io/hubpress.io",
+    "theme": "//andreamorosati.github.io/hubpress.io/themes/casper",
+    "images": "https://andreamorosati.github.io/hubpress.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
